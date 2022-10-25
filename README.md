@@ -2,6 +2,8 @@
 
 **BinOM**(*Binary Object Model*) - library for working with a hierarchical data format for general purposes.
 
+This project is tested with BrowserStack.
+
 ## Basic goals:
 * Development of a generic data format for building structures of any complexity
 * Ensuring the most optimal read and data processing speed
